@@ -1,11 +1,10 @@
 ---
+layout: post
 title: Mac Install Oh-My-Zsh
-date: 2023-01-05 17:54:00
-updated: 2023-01-05 17:54:00
-tags: 
-- [mac, oh-my-zsh]
-categories: 
-- [mac]
+date: 2023-01-05 17:54:00 +0800
+updated: 2023-01-05 17:54:00 +0800
+tags: [mac, oh-my-zsh]
+categories: [mac]
 comments: true
 ---
 
